@@ -1,0 +1,22 @@
+DSJester 1.0.4 发布文件清单
+日期：2026-10-29
+
+正式主模组：DSJester-v1.0.4.zip
+可选角色声音模型：DSJester-TTS-Whale-1.0.0-EXPERIMENTAL.zip
+包外玩家说明：README-发布版与用户手册.md
+
+语音识别依赖/模型不在上述ZIP中，请按玩家手册下载。
+TTS包仅含基础权重、社区参考音频及配置工具；完整GPT-SoVITS环境另备，声音仍未完善。
+不需要角色声音的用户只下载主模组和包外手册即可。
+
+文件大小与SHA-256：
+DSJester-v1.0.4.zip
+字节数：25636741
+SHA-256：35ffc1b15a25730b2fa8ef9b92da8a15b580e8b83a293e89d08573e2cc163e98
+
+DSJester-TTS-Whale-1.0.0-EXPERIMENTAL.zip
+字节数：242314268
+SHA-256：7583fb805f2609f62aed0c89a38b04e811274a8bb43b2fe73a2a8424f5e58abb
+
+随附：上述两个ZIP的同名.zip.sha256文件。
+不发布：旧版/PREVIEW包、本机runtime、API Key、用户配置、原版Jester音频、训练素材。
